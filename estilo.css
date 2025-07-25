@@ -65,3 +65,7 @@ p{
     display: flex;
 
 }
+.imagen{
+    width: 30%;
+    border-radius: 15px;
+}
